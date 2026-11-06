@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-sourceware__bzip2",
+  "canonical_upstream": "https://sourceware.org/git/?p=bzip2.git",
+  "source": {
+    "kind": "git",
+    "upstream_url": "https://sourceware.org/git/bzip2.git",
+    "branch": "master",
+    "revision": "f5dfc96063fef2d9c5446d0733867d899ef9b942"
+  },
+  "publication_review": {
+    "license_files": [
+      "LICENSE"
+    ],
+    "notice_files": [],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "f4b88f04587701bcfd0df387b9b212593197c5bc884b10a02fa2eb42f1d10c62",
+  "tree_sha256": "d84edff838bb1bb1ef6aea89c1cc9cc6ead655ba603e6c8dc47f86339ee4565e"
+}
